@@ -1,0 +1,11 @@
+/Users/seandowns/epicodus/car_dealership/bin/Debug/netcoreapp2.2/Car.deps.json
+/Users/seandowns/epicodus/car_dealership/bin/Debug/netcoreapp2.2/Car.runtimeconfig.json
+/Users/seandowns/epicodus/car_dealership/bin/Debug/netcoreapp2.2/Car.runtimeconfig.dev.json
+/Users/seandowns/epicodus/car_dealership/bin/Debug/netcoreapp2.2/Car.dll
+/Users/seandowns/epicodus/car_dealership/bin/Debug/netcoreapp2.2/Car.pdb
+/Users/seandowns/epicodus/car_dealership/obj/Debug/netcoreapp2.2/Car.csprojAssemblyReference.cache
+/Users/seandowns/epicodus/car_dealership/obj/Debug/netcoreapp2.2/Car.csproj.CoreCompileInputs.cache
+/Users/seandowns/epicodus/car_dealership/obj/Debug/netcoreapp2.2/Car.AssemblyInfoInputs.cache
+/Users/seandowns/epicodus/car_dealership/obj/Debug/netcoreapp2.2/Car.AssemblyInfo.cs
+/Users/seandowns/epicodus/car_dealership/obj/Debug/netcoreapp2.2/Car.dll
+/Users/seandowns/epicodus/car_dealership/obj/Debug/netcoreapp2.2/Car.pdb
