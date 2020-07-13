@@ -17,6 +17,7 @@ namespace Dealership
       List<Car> CarsList = new List<Car>() {volkswagen, yugo, ford, amc, geo};
 
       yugo.SetPrice(17000);
+      Car.MakeSound("Bang");
 
       Console.WriteLine("Enter Maximum Price: ");
       string stringMaxPrice = Console.ReadLine();
@@ -31,6 +32,8 @@ namespace Dealership
           CarsMatchSearch.Add(automobile);
         }
       }
+
+      Console.WriteLine(Car.MakeSound("Bang"));
 
       foreach(Car automobile in CarsMatchSearch)
       {

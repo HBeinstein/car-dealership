@@ -38,6 +38,10 @@ namespace Dealership.Models
     }
 
   // Methods
+    public static string MakeSound(string sound)
+    {
+      return "Our cars sound like " + sound;
+    }
     public bool WorthBuying(int maxPrice) 
     {
       return (_price <= maxPrice);
