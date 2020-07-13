@@ -6,6 +6,17 @@ namespace Dealership.Models
   {
       // Fields
     private string _makeModel;
+    public string makeModel
+    {
+      get
+      {
+        return _makeModel;
+      }
+      set 
+      {
+        _makeModel = value;
+      }
+    }
     private int _price;
     private int _miles;
 
